@@ -8,6 +8,25 @@
 
 💬 Ask me about Machine Learning, LLMs, Generative AI, MLOps, A/B Testing, and Quantitative Modeling
 
-📫 How to reach me: [swapnil.e.mahure@gmail.com
+📫 How to reach me: [swapnil.e.mahure@gmail.com]
 
 📄 Know about my experiences: [https://www.linkedin.com/in/swapyface/]
+
+
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+
+
+### 📊 GitHub Stats
+![Swapy's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+
+---
+
+
