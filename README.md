@@ -12,7 +12,6 @@
 
 📄 Know about my experiences: [https://www.linkedin.com/in/swapyface/]
 
-
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
@@ -21,8 +20,10 @@
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
-
-
 ---
 
+### 🧩 LeetCode Stats
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/swapyface?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/swapyface/)
+
+![LeetCode Badge](https://img.shields.io/badge/LeetCode-swapyface-FFA116?logo=leetcode&logoColor=white)
